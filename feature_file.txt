@@ -1,1 +1,2 @@
 this is feature2
+add bug fix1.0
